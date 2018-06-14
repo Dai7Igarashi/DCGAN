@@ -1,0 +1,26 @@
+# batchsize: 50
+# epoch: 10
+# n_hidden: 100
+
+# data_size: 60000
+
+# epoch: 1
+# passed_time: 46.67643094062805[sec]
+# epoch: 2
+# passed_time: 37.209983587265015[sec]
+# epoch: 3
+# passed_time: 36.616342306137085[sec]
+# epoch: 4
+# passed_time: 36.272674322128296[sec]
+# epoch: 5
+# passed_time: 36.319506883621216[sec]
+# epoch: 6
+# passed_time: 36.31956696510315[sec]
+# epoch: 7
+# passed_time: 36.3507821559906[sec]
+# epoch: 8
+# passed_time: 36.444507360458374[sec]
+# epoch: 9
+# passed_time: 36.39765381813049[sec]
+# epoch: 10
+# passed_time: 36.491363525390625[sec]
