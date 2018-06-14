@@ -3,12 +3,19 @@ MNISTをDCGANで生成するプログラム
 
 ## 使い方
 * 学習
+
 ```python ctreate_dataset.py```
+
 mnistをpickleに保存して使用しています.
+
 ```python train.py```
+
 Trainerを使わない記述方法です.
+
 * 画像生成
+
 ```python test.py```
+
 学習済みモデルから画像を1枚生成します.
 
 ## 仕様
@@ -24,4 +31,5 @@ Trainerを使わない記述方法です.
 
 ## 参考
 下記のサイトを参考に致しました.
+
 <https://github.com/rystylee/chainer-dcgan-mnist>
